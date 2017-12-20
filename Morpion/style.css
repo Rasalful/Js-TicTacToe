@@ -1,0 +1,33 @@
+body {
+  background-image: url(IMG/stone.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+div {
+  border: 1px solid black;
+  width: 600px;
+  height: 650px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.57);
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 8%;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  height: 33%;
+  width: 33%;
+
+}
